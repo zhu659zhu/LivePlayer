@@ -1,0 +1,10 @@
+D:\我的文档\c#\LivePlayer\LivePlayer\bin\Debug\LivePlayer.exe.config
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.csprojResolveAssemblyReference.cache
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.M3u8Player.resources
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.Properties.Resources.resources
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.csproj.GenerateResource.Cache
+D:\我的文档\c#\LivePlayer\LivePlayer\bin\Debug\LivePlayer.exe
+D:\我的文档\c#\LivePlayer\LivePlayer\bin\Debug\LivePlayer.pdb
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.exe
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.pdb
+D:\我的文档\c#\LivePlayer\LivePlayer\obj\Debug\LivePlayer.Form1.resources
